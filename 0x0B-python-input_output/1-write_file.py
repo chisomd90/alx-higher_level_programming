@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-a function that write a string to text (UTF8) & return total of character written
+function that write a string to text (UTF8) & return total of character written
 """
 
 
